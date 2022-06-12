@@ -1,0 +1,5 @@
+md5data:
+- protofile:
+    path: /proto-files/entity/example
+    filename: entity.proto
+  mdsum: db2b65052c266d9cfc80de4d2d9e5e9d
